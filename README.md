@@ -31,7 +31,7 @@
 					<li>
 						<h4>OfficePlusUpdateChecker</h4>
 						<p>A PowerShell script that grabs the latest software version of programs installed on a computer. Useful for verifying tenable reports.</p>
-						<a href="https://github.com/mrcodymichaelsmith/NeverSleep"View on GitHub">View on GitHub</a>
+						<a href="https://github.com/mrcodymichaelsmith/NeverSleep">View on GitHub</a>
 					</li>
 				</ul>
 			</li>
