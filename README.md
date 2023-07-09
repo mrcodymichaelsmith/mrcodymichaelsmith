@@ -29,9 +29,9 @@
 						<a href="https://github.com/mrcodymichaelsmith/Directory-Tree-Layout-tool">View on GitHub</a>
 					</li>
 					<li>
-						<h4>NeverSleep AKA Automatically Press Keyboard Keys</h4>
-						<p>A PowerShell script for simulating keyboard input to prevent a computer from going to sleep.</p>
-						<a href="https://github.com/mrcodymichaelsmith/NeverSleep">View on GitHub</a>
+						<h4>OfficePlusUpdateChecker</h4>
+						<p>A PowerShell script that grabs the latest software version of programs installed on a computer. Useful for verifying tenable reports.</p>
+						<a href="https://github.com/mrcodymichaelsmith/NeverSleep"</a>
 					</li>
 				</ul>
 			</li>
