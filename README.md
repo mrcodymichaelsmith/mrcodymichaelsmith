@@ -36,5 +36,5 @@ Hi there! My name is Cody Michael Smith, and I am a skilled Help Desk Technician
       A place for me to save my Leetcode Solutions for Python, Javascript and C#.
       [View on GitHub](https://github.com/mrcodymichaelsmith/Cody-Leetcode)
       
-- 
+  
   
