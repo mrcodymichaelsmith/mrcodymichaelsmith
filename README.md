@@ -27,7 +27,14 @@ Hi there! My name is Cody Michael Smith, and I am a skilled Help Desk Technician
     A PowerShell script that grabs the latest software version of programs installed on a computer. Useful for verifying tenable reports.
     [View on GitHub](https://github.com/mrcodymichaelsmith/NeverSleep)
 
-- ### Service Now
-  - #### devtraining-needit-tokyo
-    ServiceNow Practice.
-    [View on GitHub](https://github.com/mrcodymichaelsmith/devtraining-needit-tokyo)
+  - #### PowerShellOneLiners
+    These are PowerShell commands that I use daily and but that are not tools. I just use then to grab info really quick.
+    [View on GitHub](https://github.com/mrcodymichaelsmith/PowerShellOneLiners)
+
+- ### Other
+   - #### Leetcode
+      A place for me to save my Leetcode Solutions for Python, Javascript and C#.
+      [View on GitHub](https://github.com/mrcodymichaelsmith/Cody-Leetcode)
+      
+- 
+  
