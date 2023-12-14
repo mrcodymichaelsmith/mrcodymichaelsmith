@@ -9,7 +9,7 @@ Hi there! My name is Cody Michael Smith, and I am a skilled Help Desk Technician
     My attempt at [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/azure/)
     [View on GitHub](https://github.com/mrcodymichaelsmith/CSCRC)
 
-  - #### So, you want to learn Azuree AKA, "How do I learn to be a Cloud Engineer"
+  - #### So, you want to learn Azure AKA, "How do I learn to be a Cloud Engineer"
     A [Reddit post](https://www.reddit.com/r/sysadmin/comments/8inzn5/so_you_want_to_learn_aws_aka_how_do_i_learn_to_be/) originally on how to be an AWS Cloud Engineer. I plan to do the same task in Azure and document it. I am still very early in this project. 
    [View on GitHub](https://github.com/mrcodymichaelsmith/HowToAzureEngineer)
 
